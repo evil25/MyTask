@@ -24,7 +24,20 @@ public class Fragment15 extends Fragment {
         linear_background.setBackgroundColor(getResources().getColor(R.color.purple_700));
 
         Toast.makeText(getContext(),R.string.blue, Toast.LENGTH_SHORT).show();
-
         return view;
+    }
+    @Override
+    public void setUserVisibleHint(boolean isVisibleToUser) {
+        super.setUserVisibleHint(isVisibleToUser);
+        boolean mIsVisibleToUser = isVisibleToUser;
+        if (isResumed()) { // fragment have created
+            if (mIsVisibleToUser) {
+                onVisible();
+            }
+        }
+    }
+
+    public void onVisible() {
+        Toast.makeText(getContext(),R.string.blue, Toast.LENGTH_SHORT).show();
     }
 }

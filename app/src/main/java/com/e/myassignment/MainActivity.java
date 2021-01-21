@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
         list.add(new Fragment15());
         mPagerAdapter = new HomePagerAdapter(getSupportFragmentManager(),list);
         viewPager.setAdapter(mPagerAdapter);
+        viewPager.setOffscreenPageLimit(1);
 
         img_leftArrow.setOnClickListener(new View.OnClickListener() {
             @Override
