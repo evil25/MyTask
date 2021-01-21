@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magin_24">24dp</dimen>
+    <dimen name="txtsize_18">18sp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="margin_29">29dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_14">14dp</dimen>
+
+    <dimen name="txtsize_12">12sp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="txtsize_15">15sp</dimen>
+    <dimen name="margin_39">39dp</dimen>
+
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="scale_line_small">20dp</dimen>
+    <dimen name="scale_line_medium">30dp</dimen>
+    <dimen name="scale_line_large">50dp</dimen>
+
+
+    <dimen name="txt_size">16dp</dimen>
+    <dimen name="text_start_point">110dp</dimen>
+    <dimen name="h_text_start_point">30dp</dimen>
+    <dimen name="add_detail_top_margin">60dp</dimen>
+    <dimen name="yellow_line_stroke_width">6dp</dimen>
+
+
+
+        <dimen name="rippleStrokeWidth">2dp</dimen>
+        <dimen name="rippleRadius">64dp</dimen>
+
+
+
+
+    <dimen name="mti_month_width">72dp</dimen>
+    <dimen name="mti_month_height">48dp</dimen>
+    <dimen name="mti_month_lbl_padding_horizontal">8dp</dimen>
+    <dimen name="mti_month_lbl_padding_vertical">5dp</dimen>
+    <dimen name="mti_month_lbl_text">14sp</dimen>
+
+    <!-- Timeline -->
+    <dimen name="mti_timeline_width">50dp</dimen>
+    <dimen name="mti_timeline_height">110dp</dimen>
+    <dimen name="mti_timeline_lbl_day_text">12dp</dimen>
+    <dimen name="mti_timeline_lbl_date_text">14dp</dimen>
+    <dimen name="mti_timeline_lbl_value">12dp</dimen>
+    <dimen name="sp_20">20dp</dimen>
+    <dimen name="sp_5">5dp</dimen>
+</resources>

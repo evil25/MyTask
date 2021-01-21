@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Assignment</string>
+    <string name="white">White</string>
+    <string name="red">Red</string>
+    <string name="maroon">Maroon</string>
+    <string name="yellow">Yellow</string>
+    <string name="olive">Olive</string>
+    <string name="lime">Lime</string>
+    <string name="green">Green</string>
+    <string name="aqua">Aqua</string>
+    <string name="Fuchsia">Fuchsia</string>
+    <string name="lightred">Light red</string>
+    <string name="pink">Pink</string>
+    <string name="gray">Gray</string>
+    <string name="Purple">Purple</string>
+    <string name="purple_200">Light Purple</string>
+    <string name="blue">Blue</string>
+</resources>
